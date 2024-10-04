@@ -3,11 +3,11 @@
 :root {
     --bg-color:#6EACDA;
     --primary-color:#181C14;
+    --secondary-color:#4B70F5;
     --font: "Afacad Flux", sans-serif;
     }
 
-body {
-    
+body {   
     background-color: var(--bg-color);
     color: var(--primary-color);
     font-family: var(--font);
