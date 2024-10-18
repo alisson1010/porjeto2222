@@ -4,7 +4,8 @@ async Function viasualizarIformaçõesGlobais() {
     const res = await  fetch (url)
     const dados = await res.json()
     const paragrafo = document.createElement("p")
-    paragrafo.classList.add('')
+    paragrafo.classList.add('graficos-container_texto')
+    
 
 }
 
